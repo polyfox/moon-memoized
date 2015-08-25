@@ -1,0 +1,1 @@
+require 'moon-memoized/load'
