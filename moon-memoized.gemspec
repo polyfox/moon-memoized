@@ -1,3 +1,4 @@
+require 'date'
 require_relative 'lib/moon-memoized/version'
 
 Gem::Specification.new do |s|
